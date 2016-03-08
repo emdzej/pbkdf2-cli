@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pbkdf2": {
+      "commandName": "pbkdf2",
+      "commandLineArgs": "sha256 tajnehaslo"
+    }
+  }
+}
